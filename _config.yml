@@ -1,0 +1,124 @@
+# --------------
+# -- Settings --
+# --------------
+
+# Ignore this. This is only if you're hosting this in a sub-folder.
+# If you're using GitHub pages, they automatically override this with the right value.
+baseurl: ""
+
+# The ability to use custom themes.
+style:
+  theme: "original"
+
+# This will help you track who's visiting your website.
+tracking:
+  google_analytics: "UA-43729070-14"
+
+# Let people connect & engage with you through social media.
+social:
+  twitter_handle: "MLHacks"
+
+# This is Search Engine Optimization. It'll help your website look better on search.
+seo:
+  title:       "MontyHacks III Dual Nature — Health and AI"
+  description: "8:00 AM to 9:00 PM, April 13, 2019 at Montgomery High School"
+  image:       "images/logo.svg"
+
+# Event information.
+event:
+  name:        "MontyHacks III"
+  description: "Dual Nature - Health and AI"
+  date:        "April 13, 2019, 8:00 AM to 9:00 PM"
+  location:    "Montgomery High School, Skillman, NJ"
+
+  trust_badge: # not needed unless we are part of mlh
+    year:   "2017"  # season year
+    region: "eu"    # "na" or "eu"
+    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
+
+  hero:
+    links:
+      - text: "Sponsor"
+        href: "mailto:montycompsci@gmail.com" # should be to yecnj email
+      - text: "Register"
+        signup: "https://www.google.com" # change to signup form
+
+  about:
+    description: >
+      MontyHacks is an entirely student run event hosted by the Montgomery Computer Science Club in partnership with YECNJ.
+      It is located at Montgomery High School in Skillman, New Jersey and is running for the third time this year.
+      We have wonderful mentors and speakers that will guide you along the way and hopefully help you build something great!
+      Students of all experience levels are welcome! <br> <br>
+      MontyHacks III's theme is Dual Nature, the crossroads of Health and Artificial Intelligence. There is so much
+      opportunity to innovate and design new and amazing things with the combination of healthcare and AI, and we want
+      our hackers to discover just how rich the field is. Come to MontyHacks and broaden your horizons!
+
+
+  # Info Sections
+  info:
+    sections:
+      - image: "images/imgh.png"
+        title: "HEALTH"
+        description: >
+          Healthcare is one of the most exciting fields of development today. We are looking for
+          new and innovative ways to provide care with the fusion of computer science and engineering 
+          and modern medicine. If you've ever dreamed of revolutionizing modern medicine, MontyHacks
+          is a great place to start!
+      - image: "images/imga.png"
+        title: "AI"
+        description: >
+          Artificial intelligence will be the next big frontier of computer science, with loads of new
+          possibilities. One of the most promising areas of AI is in radically advancing healthcare to
+          new heights. Show us something amazing in AI; the possibilities are endless!
+      - image: "images/imgc.png"
+        title: "READY, SET, HACK!"
+        description: >
+          Your options aren't limited to only health and AI. Pursue any crazy idea you've ever wanted to try,
+          be it a new website or game or product idea. The sky's the limit at MontyHacks!
+
+  # Frequently asked questions.
+  faq:
+    - question: "What should I bring?"
+      answer: >
+        Bring your laptop, phone, chargers for both, and a sleeping bag (if necessary)!
+        You may also want headphones, a mouse, or any other electronic accessory that makes
+        you more comfortable in a working environment.
+    - question: "How much does it cost?"
+      answer: >
+        Nothing! We even have free stickers and swag for everyone who attends!
+    - question: "Who can attend this hackathon?"
+      answer: >
+        Any student who is attending high school in the 2018-19 school year can apply! If you are an exception, please [contact us.](mailto:montycompsci@gmail.com)
+    - question: "Can I enter something I hacked before the event?"
+      answer: >
+        Unfortunately, you can't. Please don't start your hack until after the opening ceremony if you plan to submit it.
+    - question: "Do I need to join a team in order to apply/hack?"
+      answer: >
+        No, there will be time for team formation at the beginning of the event. Solo hackers are equally welcome!
+        Please note, though, that if you are forming a team it will be capped at 4 members.
+    - question: "How will the selection process go?"
+      answer: >
+        Hackers will be reviewed based on their application, with regards to experience, relative interest, etc. Note that we are trying to accept everybody who registers and accomodate for those coming as a a team.
+    - question: "What if I don't know how to code beforehand?"
+      answer: >
+        That's alright! We'll have mentors and workshops to guide you through the hackathon. Students of all levels are encouraged to attend.
+
+
+  # This is the message you'll receive once you've registered.
+  register:
+    message: >
+      You'll receive more information closer to the hackathon.
+
+# ----------------------------------------------------
+# -- Ignore this unless you know what you're doing. --
+# ----------------------------------------------------
+
+markdown: kramdown
+exclude:
+ - node_modules
+ - gulpfile.js
+ - Gemfile
+ - Gemfile.lock
+ - package.json
+ - README.md
+ - CNAME

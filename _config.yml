@@ -11,12 +11,12 @@ style:
   theme: "original"
 
 # This will help you track who's visiting your website.
-tracking:
-  google_analytics: "UA-43729070-14"
+# tracking:
+  # google_analytics: "UA-43729070-14"
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle: "MLHacks"
+  twitter_handle: "MontyHacks"
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
@@ -38,10 +38,10 @@ event:
 
   hero:
     links:
-      - text: "Sponsor"
-        href: "mailto:montycompsci@gmail.com" # should be to yecnj email
+      - text: "Contact"
+        href: "mailto:montycompsci@gmail.com"
       - text: "Register"
-        signup: "https://www.google.com" # change to signup form
+        signup: "https://ichauster.typeform.com/to/FZDoM9" # change to signup form
 
   about:
     description: >

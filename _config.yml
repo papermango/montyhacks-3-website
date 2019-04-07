@@ -21,19 +21,19 @@ social:
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
   title:       "MontyHacks III Dual Nature — Health and AI"
-  description: "8:00 AM to 9:00 PM, April 13, 2019 at Montgomery High School"
+  description: "8:30 AM to 10:00 PM, June 8, 2019 at Montgomery High School"
   image:       "images/logo.svg"
 
 # Event information.
 event:
   name:        "MontyHacks III"
   description: "Dual Nature - Health and AI"
-  date:        "April 13, 2019, 8:00 AM to 9:00 PM"
+  date:        "June 8, 2019, 8:30 AM to 10:00 PM"
   location:    "Montgomery High School, Skillman, NJ"
 
   trust_badge: # not needed unless we are part of mlh
     year:   "2017"  # season year
-    region: "eu"    # "na" or "eu"
+    region: "na"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:

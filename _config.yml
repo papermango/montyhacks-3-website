@@ -32,7 +32,7 @@ event:
   location:    "Montgomery High School, Skillman, NJ"
 
   trust_badge: # not needed unless we are part of mlh
-    year:   "2017"  # season year
+    year:   "2020"  # season year
     region: "na"    # "na" or "eu"
     color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
 

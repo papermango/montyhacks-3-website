@@ -41,7 +41,7 @@ event:
       - text: "Contact"
         href: "mailto:montycompsci@gmail.com"
       - text: "Register"
-        signup: "https://ichauster.typeform.com/to/FZDoM9" # change to signup form
+        signup: "https://forms.gle/Cs4dmZb7h1SFTSYt7" # change to signup form
 
   about:
     description: >

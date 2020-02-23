@@ -20,15 +20,15 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "MontyHacks III Dual Nature — Health and AI"
-  description: "8:30 AM to 10:00 PM, June 8, 2019 at Montgomery High School"
+  title:       "MontyHacks IV Digital Wellness — Mental and Emotional Wellness and Technology"
+  description: "8:30 AM to 10:00 PM, April 25, 2020 at Montgomery High School"
   image:       "images/logo.svg"
 
 # Event information.
 event:
-  name:        "MontyHacks III"
-  description: "Dual Nature - Health and AI"
-  date:        "June 8, 2019, 8:30 AM to 10:00 PM"
+  name:        "MontyHacks IV"
+  description: "Digital Wellness"
+  date:        "April 25, 2020, 8:30 AM to 10:00 PM"
   location:    "Montgomery High School, Skillman, NJ"
 
   trust_badge: # not needed unless we are part of mlh
@@ -45,35 +45,38 @@ event:
 
   about:
     description: >
-      MontyHacks is an entirely student run event hosted by the Montgomery Computer Science Club in partnership with YECNJ.
-      It is located at Montgomery High School in Skillman, New Jersey and is running for the third time this year.
+      MontyHacks is an entirely student run event hosted by the Montgomery Computer Science Club in partnership with
+      Montgomery Future Business Leaders of America.
+      It is located at Montgomery High School in Skillman, New Jersey and is running for the fourth time this year.
       We have wonderful mentors and speakers that will guide you along the way and hopefully help you build something great!
       Students of all experience levels are welcome! <br> <br>
-      MontyHacks III's theme is Dual Nature, the crossroads of Health and Artificial Intelligence. There is so much
-      opportunity to innovate and design new and amazing things with the combination of healthcare and AI, and we want
-      our hackers to discover just how rich the field is. Come to MontyHacks and broaden your horizons!
+      MontyHacks IV's theme is Digital Wellness. Technology has the capability to do so much more than just entertain.
+      We want our hackers to reevaluate how they see the world around us and build solutions that improve our health and wellness
+      and build a symbiotic relationship between humans and technology.
+      Come to MontyHacks and rethink your assumptions!
 
 
   # Info Sections
   info:
     sections:
-      - image: "images/imgh.png"
-        title: "HEALTH"
+      - image: "images/imgw.png"
+        title: "WELLNESS"
         description: >
-          Healthcare is one of the most exciting fields of development today. We are looking for
-          new and innovative ways to provide care with the fusion of computer science and engineering 
-          and modern medicine. If you've ever dreamed of revolutionizing modern medicine, MontyHacks
-          is a great place to start!
+          Technology has the power to improve people's lives. We're looking for hackers who have innovative ideas
+          about using computer science and engineering to improve people's emotional, social, and mental wellness
+          and meaningfully impact how they live their life. Plus, wellness is an exciting, booming field with the advent of
+          biotechnology and augmented reality opening up unrivaled possibilites. Don't let your dreams be dreams, make them real at MontyHacks!
       - image: "images/imga.png"
-        title: "AI"
+        title: "ACCESSIBILITY"
         description: >
-          Artificial intelligence will be the next big frontier of computer science, with loads of new
-          possibilities. One of the most promising areas of AI is in radically advancing healthcare to
-          new heights. Show us something amazing in AI; the possibilities are endless!
+          The world is full of all sorts of people with different wants and needs, and current tech simply
+          isn't built to accommodate everyone. Accessibility in tech is a cutting-edge field working to
+          make tools that everyone can use, regardless of disabilities or special needs. If you have an idea to
+          make something more equitable and accessible using computer science or engineering, bring it to MontyHacks and let it shine!
       - image: "images/imgc.png"
         title: "READY, SET, HACK!"
         description: >
-          Your options aren't limited to only health and AI. Pursue any crazy idea you've ever wanted to try,
+          Your options aren't limited to wellness-related apps. Pursue any crazy idea you've ever wanted to try,
           be it a new website or game or product idea. The sky's the limit at MontyHacks!
 
   # Frequently asked questions.
@@ -82,23 +85,28 @@ event:
       answer: >
         Bring your laptop, phone, chargers for both, and a sleeping bag (if necessary)!
         You may also want headphones, a mouse, or any other electronic accessory that makes
-        you more comfortable in a working environment.
+        you more comfortable in a working environment. If you're planning to do a hardware hack,
+        bring supplies — we may not have all the materials or tools you need.
     - question: "How much does it cost?"
       answer: >
         Nothing! We even have free stickers and swag for everyone who attends!
     - question: "Who can attend this hackathon?"
       answer: >
-        Any student who is attending high school in the 2018-19 school year can apply! If you are an exception, please [contact us.](mailto:montycompsci@gmail.com)
+        Any student who is attending high school in the 2019-20 school year can apply! If you are an exception, please [contact us.](mailto:montycompsci@gmail.com)
     - question: "Can I enter something I hacked before the event?"
       answer: >
         Unfortunately, you can't. Please don't start your hack until after the opening ceremony if you plan to submit it.
+    - question: "What kinds of hacks are allowed?"
+      answer: >
+        As long as it's safe and appropriate, anything! We've had people make robots, hardware, web and mobile apps, games,
+        and so much more! We even provide Arduinos and a makerspace for anyone who wants to build something!
     - question: "Do I need to join a team in order to apply/hack?"
       answer: >
         No, there will be time for team formation at the beginning of the event. Solo hackers are equally welcome!
         Please note, though, that if you are forming a team it will be capped at 4 members.
     - question: "How will the selection process go?"
       answer: >
-        Hackers will be reviewed based on their application, with regards to experience, relative interest, etc. Note that we are trying to accept everybody who registers and accomodate for those coming as a a team.
+        Hackers will be reviewed based on their application, with regards to experience, relative interest, etc. Note that we are trying to accept everybody who registers and accommodate for those coming as a a team.
     - question: "What if I don't know how to code beforehand?"
       answer: >
         That's alright! We'll have mentors and workshops to guide you through the hackathon. Students of all levels are encouraged to attend.

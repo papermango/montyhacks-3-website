@@ -99,8 +99,8 @@ event:
     - question: "What kinds of hacks are allowed?"
       answer: >
         As long as it's safe and appropriate, anything! We've had people make robots, hardware, web and mobile apps, games,
-        and so much more! We even provide Arduinos and a makerspace for anyone who wants to build something!
-    - question: "Do I need to join a team in order to apply/hack?"
+        and so much more! We even provide Arduinos and a full makerspace for anyone who wants to build a cool hack!
+    - question: "Do I need to join a team in order to apply/participate?"
       answer: >
         No, there will be time for team formation at the beginning of the event. Solo hackers are equally welcome!
         Please note, though, that if you are forming a team it will be capped at 4 members.
